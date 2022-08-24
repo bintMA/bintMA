@@ -7,11 +7,11 @@ I'm a Software Engineer in the making, currently studying at AltSchool Africa [S
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I am an aspiring polyglot / Digital Nomad 😊 
+- 💡 Fun fact: I am an aspiring polyglot & Digital Nomad 😊 
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front End Engineer or Back End Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing amadelodun@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1eeswaN5Qh-9oOOjRYUBnZCQASbBl4aGo/view?usp=sharing) and contact me by emailing amadelodun@gmail.com.
 
 ---
 
