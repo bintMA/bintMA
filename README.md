@@ -5,6 +5,7 @@ I am a Cyber Security Master's student at the University of Roehampton. I am pas
 My academic and practical journey in cybersecurity has equipped me with skills and hands-on experience in risk management, network security, and ethical hacking. I aim to contribute to cybersecurity by implementing secure solutions and protecting digital assets.
 I am passionate about learning, sharing knowledge and giving back to the community.
 
+- 📖👩🏽‍💻 I’m currently learning Cyber Risk Management, Networking & Security Practice and Computer & Operating System
 
 
 ## Skills
