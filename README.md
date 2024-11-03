@@ -32,7 +32,7 @@ I am passionate about learning, sharing knowledge and giving back to the communi
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Let'sDefend_SOC_Path-00BFFF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LetsDefend_SOC_Path-00BFFF?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
