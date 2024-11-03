@@ -1,6 +1,6 @@
 # Hello, I'm Adeola Mufliah Adelodun
 
-I am a Cyber Security Master's student at the University of Roehampton. I am passionate about using technology to make a positive impact. I am dedicated to building expertise in Governance, Risk, and Compliance (GRC) and Digital Forensics and Incident Response (DFIR).
+I am a Cyber Security Master's student at the University of Roehampton. I am passionate about using technology to make a positive impact, and I am dedicated to building expertise in Governance, Risk, and Compliance (GRC) and Digital Forensics and Incident Response (DFIR).
 
 My academic and practical journey in cybersecurity has equipped me with skills and hands-on experience in risk management, network security, and ethical hacking. I aim to contribute to cybersecurity by implementing secure solutions and protecting digital assets.
 I am passionate about learning, sharing knowledge and giving back to the community.
@@ -12,7 +12,7 @@ I am passionate about learning, sharing knowledge and giving back to the communi
 
 | **Skill**                                    | **Associated Project**                                       |
 |-----------------------------------------------|-------------------------------------------------------------|
-| Network Configuration and Security Setup     | [VirtualBox Networking Lab](https://github.com/)   |
+| Network Configuration and Security Setup     | [Virtual Sandboxed Network Using VirtualBox](https://github.com/)   |
 | Ethical Hacking and Penetration Testing      | [OverTheWire Bandit Challenges](https://github.com/) |
 | Governance, Risk, and Compliance (GRC)       | [StreamLine Studios Case Study](https://github.com/) |
 
@@ -37,7 +37,7 @@ I am passionate about learning, sharing knowledge and giving back to the communi
 
 ## Projects
 
-- **[VirtualBox Networking Lab](https://github.com/)**: Built and configured a virtual network environment to understand IP subnetting, interface setup, and basic server management.
+- **[Virtual Sandboxed Network Using VirtualBox](https://github.com/)**: Built and configured a virtual network environment to understand IP subnetting, interface setup, and basic server management.
 - **[StreamLine Studios GRC Case Study](https://github.com/)**: Developed a risk management and compliance strategy using ISO/IEC 27001 and GDPR.
 - **[OverTheWire Bandit Challenges](https://github.com/)**: Strengthened Linux command-line proficiency through a series of cybersecurity challenges.
 ## Connect with Me
