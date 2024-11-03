@@ -3,7 +3,7 @@
 
 I am a Cyber Security Master's student at the University of Roehampton, passionate about using technology to make a positive impact. I am dedicated to building expertise in Governance, Risk, and Compliance (GRC) and Digital Forensics and Incident Response (DFIR).
 
-My academic and practical journey in cybersecurity has equipped me with skills and hands-on experience in risk management, network security, and ethical hacking. I aim to contribute to the cybersecurity field by implementing secure solutions and protecting digital assets.
+My academic and practical journey in cybersecurity has equipped me with skills and hands-on experience in risk management, network security, and ethical hacking. I aim to contribute to cybersecurity by implementing secure solutions and protecting digital assets.
 I am passionate about learning, sharing knowledge and giving back to the community.
 
 
@@ -43,8 +43,6 @@ I am passionate about learning, sharing knowledge and giving back to the communi
 
 
 ---
-
-## Footer
 <footer style="text-align:center; padding:20px; font-size:14px; color:gray;">
   © 2024 Adeola Mufliah Adelodun | Built with ❤️ using GitHub Pages
 </footer>
