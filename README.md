@@ -20,7 +20,7 @@ As a lifelong learner and advocate for knowledge sharing, I am equally driven by
 
 | **Skill**                                    | **Associated Project**                                       |
 |-----------------------------------------------|-------------------------------------------------------------|
-| Network Configuration and Security Setup     | [Building a Sandboxed Network Using VirtualBox]([https://github.com](https://github.com/bintMA/building_a_sandboxed_network)/)   |
+| Network Configuration and Security Setup     | [Building a Sandboxed Network Using VirtualBox](https://github.com/bintMA/building_a_sandboxed_network))   |
 | Ethical Hacking and Penetration Testing      | [OverTheWire Bandit Challenges](https://github.com/) |
 | Governance, Risk, and Compliance (GRC)       | [StreamLine Studios Case Study](https://github.com/) |
 
